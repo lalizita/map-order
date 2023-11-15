@@ -1,5 +1,7 @@
 # Maps in go
 
+This repo is about my studies in ![leetcode plataform solving the problem Sort the people.](https://leetcode.com/problems/sort-the-people/)
+
 ### Exercise: Sort the people
 You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n.
 For each index i, names[i] and heights[i] denote the name and height of the ith person.
